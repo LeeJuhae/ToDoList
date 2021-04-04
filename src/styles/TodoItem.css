@@ -13,9 +13,12 @@
 	font-size: 1.5rem;
 }
 
-.todo-item:hover {
-	background-color: #939597;
-	color: #F5dF4D;
+@media (hover: hover)
+{
+	.todo-item:hover {
+		background-color: #939597;
+		color: #F5dF4D;
+	}
 }
 
 .todo-item:hover .remove{
