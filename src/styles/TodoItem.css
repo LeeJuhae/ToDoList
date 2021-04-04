@@ -4,7 +4,7 @@
 	align-items: center;
 	cursor: pointer;
 	transition: all 0.5s;
-	user-select: none;
+	user-select: text;
 	color: #939597;
 	background-color: #F5dF4D;
 	margin: 0.5rem 0;

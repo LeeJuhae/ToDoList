@@ -3,6 +3,7 @@
 	max-width: 512px;
 	margin: 0 auto;
 	margin-top: 3rem;
+	user-select: none;
 }
 
 .title {
@@ -12,7 +13,6 @@
 	font-weight: 500;
 	background-color: #F5dF4D;
 	color: #939597;
-	user-select: none;
 	border-radius: 3px;
 }
 
