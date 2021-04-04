@@ -1,9 +1,8 @@
 .todo-list-template {
-	/* width: 512px; */
 	width: 80%;
 	max-width: 512px;
 	margin: 0 auto;
-	margin-top: 4rem;
+	margin-top: 3rem;
 }
 
 .title {
