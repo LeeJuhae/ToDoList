@@ -22,9 +22,9 @@ class TodoItemList extends Component {
 			)
 		);
 		return (
-			<div>
+			<>
 				{todoList}
-			</div>
+			</>
 		);
 	}
 }
