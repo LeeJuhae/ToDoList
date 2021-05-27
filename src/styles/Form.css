@@ -1,32 +1,32 @@
 .form {
-	display: flex;
+  display: flex;
 }
 
 .form input {
-	font-size: 1.25rem;
-	outline: none;
-	border: none;
-	border-bottom: 1px solid #F5dF4D;
-	font-family: 'Courier New', Courier, monospace;
-	width: 100%; /* 왜 됨? */
+  font-size: 1.25rem;
+  outline: none;
+  border: none;
+  border-bottom: 1px solid #f5df4d;
+  font-family: 'Courier New', Courier, monospace;
+  width: 100%; /* 왜 됨? */
 }
 
 .create-button {
-	padding-top: 0.5rem;
-	padding-bottom: 0.5rem;
-	padding-left: 1rem;
-	padding-right: 1rem;
-	margin-left: 1rem;
-	background: #F5dF4D;
-	border-radius: 3px;
-	color: #939597;
-	font-weight: 500;
-	cursor: pointer;
-  }
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  margin-left: 1rem;
+  background: #f5df4d;
+  border-radius: 3px;
+  color: #939597;
+  font-weight: 500;
+  cursor: pointer;
+}
 
 @media (hover: hover) {
-	.create-button:hover {
-		background-color: #939597;
-		color: #F5dF4D;
-	}
+  .create-button:hover {
+    background-color: #939597;
+    color: #f5df4d;
+  }
 }

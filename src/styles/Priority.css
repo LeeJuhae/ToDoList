@@ -1,21 +1,21 @@
 .tag-wrapper {
-	display: flex;
-	justify-content: space-around;
-	margin: 0 0 1rem 0;
+  display: flex;
+  justify-content: space-around;
+  margin: 0 0 1rem 0;
 }
 
 .tag {
-	display: flex;
-	justify-content: space-around;
-	border: 1px solid #939597;
-	width: 100%;
-	margin: 2px;
-	border-radius: 3px;
-	color: #939597;
-	font-size: 1.5rem;
+  display: flex;
+  justify-content: space-around;
+  border: 1px solid #939597;
+  width: 100%;
+  margin: 2px;
+  border-radius: 3px;
+  color: #939597;
+  font-size: 1.5rem;
 }
 
 .clicked {
-	background-color: #939597;
-	color: #F5dF4D;
+  background-color: #939597;
+  color: #f5df4d;
 }
