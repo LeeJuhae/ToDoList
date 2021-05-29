@@ -9,6 +9,14 @@ body {
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+button {
+  border: 1px solid #939597;
+  margin: 2px;
+  border-radius: 3px;
+  color: #939597;
+  background-color: rgb(255, 255, 255);
+  font-family: 'Courier New', Courier, monospace;
 }
